@@ -1,0 +1,15 @@
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/bin/Debug/net8.0/WB_Kata3
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/bin/Debug/net8.0/WB_Kata3.deps.json
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/bin/Debug/net8.0/WB_Kata3.runtimeconfig.json
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/bin/Debug/net8.0/WB_Kata3.dll
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/bin/Debug/net8.0/WB_Kata3.pdb
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/obj/Debug/net8.0/WB_Kata3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/obj/Debug/net8.0/WB_Kata3.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/obj/Debug/net8.0/WB_Kata3.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/obj/Debug/net8.0/WB_Kata3.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/obj/Debug/net8.0/WB_Kata3.sourcelink.json
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/obj/Debug/net8.0/WB_Kata3.dll
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/obj/Debug/net8.0/refint/WB_Kata3.dll
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/obj/Debug/net8.0/WB_Kata3.pdb
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/obj/Debug/net8.0/WB_Kata3.genruntimeconfig.cache
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/WB_Kata1/WB_Kata3/obj/Debug/net8.0/ref/WB_Kata3.dll

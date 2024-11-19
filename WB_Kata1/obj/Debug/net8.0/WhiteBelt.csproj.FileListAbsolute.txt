@@ -1,0 +1,15 @@
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/bin/Debug/net8.0/WhiteBelt
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/bin/Debug/net8.0/WhiteBelt.deps.json
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/bin/Debug/net8.0/WhiteBelt.runtimeconfig.json
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/bin/Debug/net8.0/WhiteBelt.dll
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/bin/Debug/net8.0/WhiteBelt.pdb
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/obj/Debug/net8.0/WhiteBelt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/obj/Debug/net8.0/WhiteBelt.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/obj/Debug/net8.0/WhiteBelt.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/obj/Debug/net8.0/WhiteBelt.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/obj/Debug/net8.0/WhiteBelt.sourcelink.json
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/obj/Debug/net8.0/WhiteBelt.dll
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/obj/Debug/net8.0/refint/WhiteBelt.dll
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/obj/Debug/net8.0/WhiteBelt.pdb
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/obj/Debug/net8.0/WhiteBelt.genruntimeconfig.cache
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/WhiteBelt/obj/Debug/net8.0/ref/WhiteBelt.dll
